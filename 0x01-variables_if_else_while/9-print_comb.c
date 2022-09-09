@@ -22,7 +22,7 @@ int main(void)
 
 	i = 0;
 
-	while(i <= 9)
+	while (i <= 9)
 	{
 		putchar (i + '0');
 		if (i != 9)
@@ -30,7 +30,7 @@ int main(void)
 			putchar(',');
 			putchar(' ');
 		}
-		else 
+		else
 		{
 			putchar('\n');
 		}

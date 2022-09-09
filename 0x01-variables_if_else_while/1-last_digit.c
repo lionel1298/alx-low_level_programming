@@ -10,7 +10,7 @@
  *  Decription - To print the last digit of a random integer
  *  Return: Always 0 (success)
  */
- int main(void)
+int main(void)
 {
 	int n, d;
 

@@ -5,9 +5,11 @@
  * lowercase, followed by a new line.
  *
  * Conditions:
- * You can only use the putchar function (every other function (printf, puts, etc…) is forbidden)
+ * You can only use the putchar function 
  * All your code should be in the main function
  * You can only use putchar three times in your code
+ *
+ * Return: Always 1 (success)
  */
 int main(void)
 {

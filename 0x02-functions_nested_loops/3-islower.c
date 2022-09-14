@@ -4,7 +4,7 @@
  *
  * print_alphabet_x10 - prints 10 times the alphabet, in lowercase,
  *
- * Return: 1 if c is lowercase, else 0
+ * Return: 1 if is lowercase, else 0
  */
 int _islower(int c)
 {

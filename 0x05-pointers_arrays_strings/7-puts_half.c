@@ -3,7 +3,7 @@
  *  puts_half - half a string
  *   @str: string whose half is to be printed
  *   Description: a function that prints half of a string
- *   
+ *
  *   Return: None
  */
 void puts_half(char *str)

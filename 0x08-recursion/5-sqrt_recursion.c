@@ -1,6 +1,6 @@
 #include "main.h"
 /**
- * _sqrt_check - checks for the square root of c
+ *_sqrt_recursion - checks for the square root of c
  * @n: number to be used
  *
  * Return: the square root of n
